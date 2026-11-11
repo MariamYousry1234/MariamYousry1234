@@ -143,7 +143,7 @@
 
 An academic project designed to manage driving and vehicle licensing operations.
 
-**Technologies:** C#, Windows Forms, ADO.NET, SQL Server, T-SQL.
+**Technologies:** C#, Windows Forms, ADO.NET, SQL Server.
 
 **Highlights:**
 - Implemented Three-Tier Architecture.
@@ -159,7 +159,7 @@ An academic project designed to manage driving and vehicle licensing operations.
 
 A practical project for managing computer maintenance and service center operations.
 
-**Technologies:** C#, Windows Forms, SQL Server, ADO.NET.
+**Technologies:** C#, Windows Forms, SQL Server, ADO.NET, T-SQL.
 
 **Highlights:**
 - Repair order management.
